@@ -1,0 +1,19 @@
+{
+  "name": "nodejs_crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node jandan/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.4.5",
+    "log4js": "^6.9.1",
+    "mongoose": "^7.4.2"
+  }
+}
